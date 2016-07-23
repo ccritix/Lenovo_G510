@@ -18,17 +18,17 @@ Make sure to copy the ACPI tables you extracted to a safe place accessible via y
 
 #Patch DSDT & SSDT's
 
-Git clone of G510p-OS-X, create one with (in terminal):
+Git clone of Laptop_G510, create one with (in terminal):
 ```javascript
-git clone https://github.com/crytyx/G510-OS-X.git
+git clone https://github.com/crytyx/Laptop_G510.git
 ```
 OR 
 
 if you do not have a working internet connection, download the repo as zip (option in down-right corner) from an internet enabled pc.
 
-This will create a G510-OS-X folder with all the patches and autopatcher  script.
+This will create a Laptop_G510 folder with all the patches and autopatcher  script.
 
-In a terminal navigate to the unpacked Y510p git data and execute the following:
+In a terminal navigate to the unpacked G510 git data and execute the following:
 
 Make the script executable:
 ```javascript
